@@ -1,4 +1,4 @@
-# Hi there, I'm wepwawet 👋
+# Hi there, I'm AYA👋
 
 > "Your growth is your power. Keep building, keep learning."
 
