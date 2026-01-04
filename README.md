@@ -49,7 +49,7 @@
 
 * 💻 Laptop (Windows 10)
 * 📱 Android Device
-* 🕶️ VR W600
+
 
 ---
 
