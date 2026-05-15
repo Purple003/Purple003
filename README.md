@@ -1,63 +1,79 @@
-# Hi there, I'm AYA👋
+# 🟣 AYA.EXE
 
-> "Your growth is your power. Keep building, keep learning."
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Game+Dev+Mode+Activated;VR%2FAR+Explorer;Web+%7C+Mobile+%7C+Backend;Building+Immersive+Systems" />
+</p>
 
-## ✨ About Me
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+█  PLAYER: AYA               █
+█  CLASS: DEV ENGINEER      █
+█  LEVEL: MASTER STUDENT    █
+█  STATUS: BUILDING WORLDS  █
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 
-* 🎓 Master student in **Educational Engineering & Emerging Technologies**.
-* 📘 Currently completing my **second-year Master's studies**.
-* 🌱 Building strong knowledge in **VR/AR**, **mobile development (Android Studio & Java)**, **Hibernate**, and **Microservices**.
-* 🎯 Interested in immersive technologies, software engineering, and innovative learning tools.
-* 💬 Open to discussions and collaborations.
-
----
-
-## 🛠️ Skills & Interests
-
-### 🔧 Technologies & Tools
-
-* Android Studio (Java)
-* Hibernate
-* Microservices
-* VR / AR Concepts
-* Unity 
-* Blender 
-* JavaScript, TypeScript, HTML, CSS
-* React, Node.js
-* Python, Java
-
-### 🌐 Interests
-
-* Immersive Technologies (VR/AR)
-* Mobile Development
-* Software Engineering
-* Learning Technologies
-* AI & Intelligent Systems
+💜 "Keep building. Keep leveling up."
 
 ---
 
-## 📫 Contact
+## 🎮 ABOUT ME
 
-* 📧 Email: **arrocheaya@gmail.com**
-* 📧 Email 2: **wwepwawet@gmail.com**
-* 🔗 LinkedIn: **[your-link-here](https://www.linkedin.com/in/aya-arroche-215a712b0/)**
-* 🌐 Portfolio: **[your-portfolio-link-here](https://portfolio-purple003s-projects.vercel.app/)**
+SYSTEM PROFILE LOADED
+
+NAME: AYA  
+ROLE: Game / Web / Mobile Developer  
+
+SPECIALIZATION:
+- 🎮 Game Dev (Unity)
+- 🕶️ VR / AR Systems
+- 📱 Mobile Apps (Android Java)
+- 🌐 Web Development
+- ⚙️ Backend Microservices
+
+MISSION:
+Create immersive learning experiences powered by technology.
 
 ---
 
-## 💻 Devices I Use
+## 🧠 TECH TREE
 
-* 💻 Laptop (Windows 10)
-* 📱 Android Device
+🎮 GAME / VR  
+- Unity ████████░░  
+- Blender ██████░░░░  
+- XR Systems ███████░░░  
 
+📱 MOBILE DEV  
+- Android (Java) ████████░░  
+- UI Design ██████░░░░  
+
+🌐 WEB DEV  
+- HTML / CSS / JS ████████░░  
+- React ███████░░░  
+- Node.js ██████░░░░  
+
+⚙️ BACKEND  
+- Java ████████░░  
+- Microservices ███████░░░  
+- Hibernate ███████░░░  
 
 ---
 
-## 📚 Projects & Portfolio
+## 🚀 CURRENT QUESTS
 
-* Android applications (Java)
-* Microservice-based backend projects
-* VR/AR educational demos
-* Personal experiments in software development
+[✔] VR/AR Exploration  
+[✔] Mobile App Development  
+[⏳] Serious Game with AI  
+[⏳] Backend Microservices Architecture  
+[⏳] Internship Search Mode Activated  
 
-> Always learning, always improving — open to new collaborations! 🚀
+---
+
+## 📡 CONTACT
+
+- Email: arrocheaya@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/aya-arroche-215a712b0/  
+- Portfolio: https://portfolio-purple003s-projects.vercel.app/
+
+---
+
+★ GAME STATUS: CONTINUOUS LEARNING  
+★ NEXT LEVEL: INDUSTRY READY DEV
